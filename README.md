@@ -1,6 +1,3 @@
-
-محادثة مع Gemini
-
 # 🌸 Iris Flower Classification Project
 
 
@@ -23,14 +20,13 @@ This project is a comprehensive machine learning application for automatic class
 
 ## 👤 Author
 
-- **Hassan Muqbil Murshid**
+- **Hassan Moqbel Morshed**
 
-- **Computer Science Student, University of Sana'a**
+- **Mechatronics Student, University of Sana'a**
 
-- **Academic Number:** [Your Academic Number]
+- **Academic Number:** [202274198]
 
-- **Email:** [Your Email Here]
-
+- **Email:** [h775912609@gmail.com]
 
 
 ---
@@ -739,11 +735,11 @@ This project is developed for educational and research purposes. All code is ope
 
 For questions and support:
 
-- Email: [Your Email Here]
+- Email: [eng-hassan-moqbel]
 
-- GitHub Issues: [Project Issues Page]
+- GitHub Issues: [(https://github.com/eng-hassan-moqbel/iris-classification-project.wiki.git)]
 
-- Documentation: [Project Wiki]
+- Documentation: [page 1]
 
 
 
@@ -754,5 +750,6 @@ For questions and support:
 > **Developed by Hassan Muqbil Murshid**
 
 > *Machine Learning Enthusiast & Computer Science Student*
+
 
 > *University of Sana'a*
