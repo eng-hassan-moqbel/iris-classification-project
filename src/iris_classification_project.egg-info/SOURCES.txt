@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/data_loading.py
+src/model_evaluation.py
+src/model_training.py
+src/utils.py
+src/web_interface.py
+src/iris_classification_project.egg-info/PKG-INFO
+src/iris_classification_project.egg-info/SOURCES.txt
+src/iris_classification_project.egg-info/dependency_links.txt
+src/iris_classification_project.egg-info/requires.txt
+src/iris_classification_project.egg-info/top_level.txt
